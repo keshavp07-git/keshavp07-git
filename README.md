@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Prajapati</h1>
-<h3 align="center">A passionate Cross Platform App Developer using Flutter for Android</h3>
-<div align= "center"><img src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif" width="100" alt="My Image " /></div>
+<h3 align="center">A passionate Cross Platform App Developer using Flutter </h3>
+<div align= "center"><img src="https://github.com/keshavp07-git/keshavp07-git/blob/main/20240323_1003581-ezgif.com-loop-count.gif" width="200" alt="My Image " /></div>
 <div align= "center"><img src="https://github.com/keshavp07-git/keshavp07-git/blob/main/20240323_0948263-min-ezgif.com-loop-count.gif" width="300" alt="My Image" /></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavp07-git&label=Profile%20views&color=0e75b6&style=flat" alt="keshavp07-git" /> </p>
 
