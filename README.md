@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Keshav Prajapati</h1>
 <h3 align="center">A passionate Cross Platform and Backend Developer</h3>
-<img align="center"> alt="coding" width="400" src="1.png">
-
+<div align="center">
+  <img src="1.png" alt="coding" width="400">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavp07-git&label=Profile%20views&color=0e75b6&style=flat" alt="keshavp07-git" /> </p>
 
 <p align="left"> <a href="https://twitter.com/keshavp07__" target="blank"><img src="https://img.shields.io/twitter/follow/keshavp07__?logo=twitter&style=for-the-badge" alt="keshavp07__" /></a> </p>
