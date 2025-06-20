@@ -95,7 +95,7 @@
   <a href="www.linkedin.com/in/keshav-prajapati-912bab168" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="27" alt="linkedin logo"  />
   </a>
-  <a href="https://www.facebook.com/keshav.prajapati.9484941" target="_blank">
+  <a href="https://www.linkedin.com/in/keshav-prajapati-912bab168/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="27" alt="facebook logo"  />
   </a>
   <a href="https://x.com/keshav_p07" target="_blank">
