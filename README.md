@@ -117,12 +117,4 @@
 
 <br clear="both">
 
-<h2 align="left">MY COMMITS</h2>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/keshavp07-git/keshavp07-git/output/snake.svg" alt="Snake animation" />
-
 ###
