@@ -12,20 +12,9 @@
 
 ###
 
-<h2 align="left">MY HOBBY IS LISTENING TO MUSIC SO HERE IS THE RECENTLY PLAYED SONG :)</h2>
-
-###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31dwfjjrqyimswiv5yzmoahfpphq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dwfjjrqyimswiv5yzmoahfpphq&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavp07-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavp07-git&layout=compact&theme=dracula" height="150"/>
 </div>
 
 ###
