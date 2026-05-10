@@ -1,109 +1,33 @@
-<h2 align="left">Hi 👋! Welcome to Keshav's Github Profile.........</h2>
+<h1 align="center">Hi 👋, I'm Keshav Prajapati</h1>
+<h3 align="center">DevOps, Cloud, and Site Reliability Engineer passionate about building scalable and reliable infrastructure. Experienced with AWS, Docker, Kubernetes, CI/CD pipelines, and Linux administration. Focused on automation, monitoring, and high availability for modern cloud-native applications. Skilled in improving deployment efficiency, system performance, and operational stability. Continuously learning and implementing modern DevOps and SRE best practices.</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshavp07-git&label=Profile%20views&color=0e75b6&style=flat" alt="keshavp07-git" /> </p>
 
-<p align="left">Passionate and results-driven DevOps Engineer with a strong foundation in cloud infrastructure, automation, and Java backend development. Skilled in deploying and managing scalable, secure applications using AWS services such as EC2, S3, EBS, EFS, ELB, CloudWatch, IAM, Auto Scaling, and Elastic Beanstalk. Hands-on experience in implementing robust CI/CD pipelines using AWS CodeBuild, CodeDeploy, Jenkins, and Infrastructure as Code with Terraform and AWS CloudFormation.<br><br>Proficient in containerization with Docker, orchestration using Kubernetes, and secure delivery using GitOps principles. Well-versed in configuration management with Ansible and proactive system monitoring and logging practices.<br><br>Also experienced in developing RESTful APIs with Spring Boot 3, Spring Framework 5, and integrating Spring Security, OAuth2, and JWT for secure microservices. Solid understanding of Spring MVC, ORM with Hibernate, and backend architecture principles.<br><br>Eager to contribute to fast-paced DevOps teams by bridging the gap between development and operations with modern DevOps and backend best practices.</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavp07-git" alt="keshavp07-git" /></a> </p>
 
-###
+- 🌱 I’m currently learning **DevSecOps**
 
-<div align="center">
-  <img height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVc9IYg6G2xQh2ODAJM0QEmp7Mvo2lvfA_sMhmUE8klbeBVfhJIzgK1Ilqj2rOozmjeDfd2rZ4aYaU7mQn88gVevbkCJZF_I1PDZbRLWo_eCrVe8ZTv5-G-PWC7eHiBDR1-CUgqiLFSGcHZI9ZDaq2GKKr2GNJgB9qWIPmot37wXG4NtZ8DW-wmsi8dg/w554-h229/DEVOPS.gif"  />
-</div>
+- 👨‍💻 All of my projects are available at [https://keshav-porfolio-oz.vercel.app/](https://keshav-porfolio-oz.vercel.app/)
 
-###
+- 📝 I regularly write articles on [https://keshav-porfolio-oz.vercel.app/blog/understanding-devops-culture](https://keshav-porfolio-oz.vercel.app/blog/understanding-devops-culture)
 
+- 💬 Ask me about **Ask me about DevOps, Cloud Computing, Kubernetes, Docker, AWS, CI/CD pipelines, Linux administration, Site Reliability Engineering, and cloud-native application deployment.**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavp07-git&layout=compact&theme=dracula" height="150"/>
-</div>
+- 📫 How to reach me **keshav.prajapati830@gmail.com**
 
-###
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GXf3fxLHk8pXFpMuVmZDNh1K7vFoenxY/view?pli=1](https://drive.google.com/file/d/1GXf3fxLHk8pXFpMuVmZDNh1K7vFoenxY/view?pli=1)
 
-<h2 align="left">MY SKILLS & TOOLS</h2>
+- ⚡ Fun fact **⚡ Fun fact: I enjoy automating everything — from CI/CD pipelines to cloud infrastructure — because reducing manual work and improving reliability feels like solving real-world puzzles.**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/keshav-prajapati-912bab168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-prajapati-912bab168" height="30" width="40" /></a>
+<a href="https://instagram.com/keshav07.ops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshav07.ops" height="30" width="40" /></a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vagrant/1868F2" height="30" alt="vagrant logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/centos/262577" height="30" alt="centos logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="30" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="30" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavp07-git&show_icons=true&locale=en&layout=compact" alt="keshavp07-git" /></p>
 
-<h2 align="left">CONTACTS</h2>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://www.instagram.com/keshav07.ops/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="27" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/keshav-prajapati-912bab168/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/keshav.prajapati.9484941" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="27" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/keshav_p07" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="27" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<p align="left">GMAIL :- keshav.prajapati830@gmail.com</p>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=keshavp07-git.keshavp07-git&left_color=green&right_color=blue"  />
-
-###
-
-<br clear="both">
-
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshavp07-git&show_icons=true&locale=en" alt="keshavp07-git" /></p>
